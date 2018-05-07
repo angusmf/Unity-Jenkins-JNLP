@@ -1,4 +1,4 @@
-FROM angusmf/Unity-Jenkins:latest
+FROM angusmf/unity-jenkins:latest
 
 COPY jenkins-slave /usr/local/bin/jenkins-slave
 
